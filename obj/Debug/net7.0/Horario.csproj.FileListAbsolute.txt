@@ -1,0 +1,5 @@
+C:\Users\ellid\Documents\Tareas tercer semestre\Programacion orientada a objetos\Horario\obj\Debug\net7.0\Horario.csproj.AssemblyReference.cache
+C:\Users\ellid\Documents\Tareas tercer semestre\Programacion orientada a objetos\Horario\obj\Debug\net7.0\Horario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellid\Documents\Tareas tercer semestre\Programacion orientada a objetos\Horario\obj\Debug\net7.0\Horario.AssemblyInfoInputs.cache
+C:\Users\ellid\Documents\Tareas tercer semestre\Programacion orientada a objetos\Horario\obj\Debug\net7.0\Horario.AssemblyInfo.cs
+C:\Users\ellid\Documents\Tareas tercer semestre\Programacion orientada a objetos\Horario\obj\Debug\net7.0\Horario.csproj.CoreCompileInputs.cache
